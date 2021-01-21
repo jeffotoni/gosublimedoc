@@ -193,6 +193,8 @@ export PATH=$PATH:$GOPATH/bin
 
 Este é um exemplo, onde nosso $GOPATH está dentro de **"projeto/golang"** mas você pode definir o que achar melhor.
 
+Agora é abrir o sublime e abrir seus projetos para ver como ficou..
+
 
 
 
