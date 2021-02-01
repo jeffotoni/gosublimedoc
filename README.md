@@ -158,7 +158,7 @@ Estou disponibilizando meu config do sublime para que possa copiar e colar e uti
 
 No link abaixo irá fazer download para sua máquna
 
-[sublime-text-3.tar.bz2](https://jeffotoni.sfo2.igitaloceanspaces.com/sublime-text-3.tar.bz2)
+[sublime-text-3.tar.bz2](https://jeffotoni.sfo2.digitaloceanspaces.com/sublime-text-3.tar.bz2)
 
 Quando baixar só descompactar e copiar para dentro do seu .config no seu $HOME
 
